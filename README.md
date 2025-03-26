@@ -1,4 +1,4 @@
-![Screenshot 2025-03-26 083751](https://github.com/user-attachments/assets/21abb515-24bf-4754-b830-60866a93da89)<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: R.PRIYANGA</h3>
 <h3>Register Number: 212223230161</h3>
 
